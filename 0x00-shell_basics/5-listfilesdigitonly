@@ -1,4 +1,3 @@
 #!/bin/bash
 ls -l
-cd ~
-ls -al
+ls -al cd ~
