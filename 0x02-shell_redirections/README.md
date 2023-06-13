@@ -1,1 +1,1 @@
-Writting a script into the file
+Describing what each script is doing
