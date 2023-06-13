@@ -5,3 +5,4 @@ Displaying the content of a file if 2
 Displaying the last 10lines of /etc/passwd
 Displaying the first 10lines for /etc/passwd
 Displaying the third line of iacta
+Creating a file name containing a text
